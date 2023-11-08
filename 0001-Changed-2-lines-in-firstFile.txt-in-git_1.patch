@@ -1,0 +1,24 @@
+From 6ce3870f76f37938ee3ad031ae4665dbbe4209bf Mon Sep 17 00:00:00 2001
+From: Leclassique <75534147+Leclassique@users.noreply.github.com>
+Date: Wed, 8 Nov 2023 16:48:54 +0300
+Subject: [PATCH] Changed 2 lines in firstFile.txt in git_1
+
+---
+ firstFile.txt | 4 ++--
+ 1 file changed, 2 insertions(+), 2 deletions(-)
+
+diff --git a/firstFile.txt b/firstFile.txt
+index b3f56ae..8ce41e5 100644
+--- a/firstFile.txt
++++ b/firstFile.txt
+@@ -1,5 +1,5 @@
+-line 1
+-line 2
++line 1 mod
++line 2 mod
+ line 3
+ line 4
+ line 5
+-- 
+2.41.0.windows.2
+
